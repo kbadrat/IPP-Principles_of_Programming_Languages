@@ -1,0 +1,16 @@
+#Vladyslav Kovalets (xkoval21)
+
+# Define variables for errors.
+class Error:
+    ERROR_SCRIPT_PARAMETER = 10
+    ERROR_INPUT = 11
+    ERROR_OUTPUT = 12
+    ERROR_XML_FORMAT = 31
+    ERROR_XML_STRUCTURE = 32
+    ERROR_SEMANTIC = 52
+    ERROR_OPERAND_TYPE = 53
+    ERROR_WRONG_VARIABLE = 54
+    ERROR_WRONG_FRAME = 55
+    ERROR_NO_VALUE = 56
+    ERROR_WRONG_OPERAND_VALUE = 57
+    ERROR_STRING = 58
